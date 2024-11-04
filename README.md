@@ -1,10 +1,10 @@
 
-# Track that Jack
+# Social Butterfly
 
 
 
 ## Description
-to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
+to build an API from scratch for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,10 +15,10 @@ to build a command-line application from scratch to manage a company's employee 
 - [Questions](#questions)
 
 ## Installation
-npm run seed
+npm run start
 
 ## Usage
-npom run start
+npm run start
 
 ## Contributing
 make a pull request
